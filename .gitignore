@@ -3,4 +3,5 @@ secret/*.pub
 secret/*.yml
 *.log
 *.retry
+context/*
 tmp/*
