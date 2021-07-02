@@ -1,5 +1,5 @@
 # Docker image to use.
-FROM sloopstash/amazonlinux:v1
+FROM bharath/amazonlinux:v1
 
 # Install OpenSSH server.
 RUN yum install -y openssh-server passwd
